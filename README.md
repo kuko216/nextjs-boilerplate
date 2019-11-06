@@ -2,7 +2,7 @@
 
 boilerplate for next.js app
 
-##Stack Setting
+## Stack Setting
 
 - Next.js
 - TypeScript
